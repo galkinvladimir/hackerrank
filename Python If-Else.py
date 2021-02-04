@@ -5,9 +5,7 @@ if __name__ == '__main__':
 if n % 2 != 0:              #проверка на чётное
     print("Weird")
 else:
-    if n > 100:
-        exit(0)
-    elif n >= 2 and n <= 5:
+    if n >= 2 and n <= 5:
         print("Not Weird")
     elif n >= 6 and n <= 20:
         print("Weird")

@@ -1,1 +1,5 @@
+Python 2.x
 https://github.com/anarayanan86/Hackerrank
+
+Python 3.x
+https://github.com/galkinvladimir/hackerrank
